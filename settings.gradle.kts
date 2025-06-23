@@ -21,4 +21,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "EquiHub"
 include(":app")
- 
+include(":core_domain")
+include(":core_ui")
+include(":core_data")
+include(":core_database")
+include(":core_navigation")
